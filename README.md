@@ -45,3 +45,7 @@ java WelcomeGUI
 There are no AI generated components. All visuals are drawn.
 
 Oracle was used as a reference for topics not discussed in class, such as LocalDate and GridLayout features. 
+
+
+Copyright (c) 2026 Corinne Laurey. All rights reserved.
+This code is visible for educational purposes only. No permission is granted to copy, modify, distribute, or reuse this software in any form.
